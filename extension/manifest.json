@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "NFSU2.xyz Discord Presence",
+  "version": "1.0.0",
+  "description": "Shows Discord Rich Presence while an nfsu2.xyz tab is open in Brave or Chrome.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjUskA1fwjZVLUSVMaVZOOPxootNsOdFf1Q2mOLSEI+kDcpfnjfwsxEx14Bp1/fYoECbnNiOzZ1+ukYQ9lKVo8h0W1KGecUoJ3jx/wF5mkeWPaKREKJwRWgN+fmU98oCRrMbvFBleSslV8RdRR0ZUE1zB0iIw8wwcKpDtDg0kgVOrSF23wKbViuaVDqgXwfdPX745L/Sm+LeARzuR2qkL5yNnzK7upVbTumQqX8hP5K1f0q4CIEK2fgEwoQHCswU6xhDig5uoYu7MsGimVXiPpdje6WysTXqyXjxyuKxm2lqYKTrPqRA7txw0ekPgqeTZBj+nf4X9+QSGTza43FyvVQIDAQAB",
+  "permissions": ["tabs", "nativeMessaging"],
+  "host_permissions": ["https://nfsu2.xyz/*"],
+  "background": {
+    "service_worker": "service-worker.js"
+  }
+}

@@ -1,0 +1,9 @@
+companion/config.json
+companion/native-host-manifest.json
+companion/node-path.txt
+companion/native-host-launcher.exe
+.azure/
+.vs/
+*.user
+*.suo
+*.pdb
