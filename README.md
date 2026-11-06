@@ -42,7 +42,7 @@ the activity to the Discord desktop app.
 - Shows a Discord Rich Presence while NFSU2.xyz is open.
 - Keeps the presence active when the game tab is in the background.
 - Clears the presence when all game tabs are closed.
-- Uses the same extension ID in Brave and Google Chrome.
+- Uses the same extension ID.
 - Does not require a Discord bot, bot token, or Discord account password.
 
 ## Requirements
