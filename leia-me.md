@@ -13,11 +13,7 @@
   <a href="leia-me.md">Português</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/jackson070110/nfsu2.xyz-discord-presence/releases">Versões</a> ·
-  <a href="https://nfsu2.xyz/">Site</a> ·
-  <a href="https://github.com/jackson070110/nfsu2.xyz-discord-presence/issues">Relatar um problema</a> ·
-  <a href="https://discord.com/developers/applications">Discord Developer Portal</a>
+
 </p>
 
 > [!IMPORTANT]
