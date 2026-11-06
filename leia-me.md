@@ -42,7 +42,7 @@ Windows envia a atividade ao aplicativo Discord para computador.
 - Mostra Rich Presence no Discord enquanto o NFSU2.xyz está aberto.
 - Mantém a presença ativa quando a aba do jogo está em segundo plano.
 - Remove a presença quando todas as abas do jogo são fechadas.
-- Usa o mesmo ID da extensão no Brave e no Google Chrome.
+- Utiliza o mesmo ID de extensão.
 - Não precisa de bot, token de bot ou senha da conta do Discord.
 
 ## Requisitos
